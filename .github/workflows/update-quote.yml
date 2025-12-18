@@ -1,0 +1,59 @@
+name: Update Quote
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch random quote
+        id: quote
+        run: |
+          # Randomly choose between anime and dev quotes (50/50 chance)
+          RANDOM_NUM=$((RANDOM % 2))
+
+          if [ $RANDOM_NUM -eq 0 ]; then
+            # Fetch anime quote from AnimeChan API
+            RESPONSE=$(curl -s https://animechan.xyz/api/random)
+            QUOTE=$(echo $RESPONSE | jq -r '.quote')
+            ANIME=$(echo $RESPONSE | jq -r '.anime')
+            CHARACTER=$(echo $RESPONSE | jq -r '.character')
+            FORMATTED_QUOTE="<i>\"${QUOTE}\" – ${CHARACTER}, ${ANIME}</i>"
+          else
+            # Fetch dev quote from quotable.io
+            RESPONSE=$(curl -s "https://api.quotable.io/quotes/random?tags=technology|famous-quotes&maxLength=150")
+            QUOTE=$(echo $RESPONSE | jq -r '.[0].content')
+            AUTHOR=$(echo $RESPONSE | jq -r '.[0].author')
+            FORMATTED_QUOTE="<i>\"${QUOTE}\" – ${AUTHOR}</i>"
+          fi
+
+          # Escape special characters for sed
+          FORMATTED_QUOTE=$(echo "$FORMATTED_QUOTE" | sed 's/[&/\]/\\&/g')
+
+          echo "formatted_quote=$FORMATTED_QUOTE" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          # Update the quote section in README.md
+          sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/{
+            /<!-- QUOTE:START -->/!{
+              /<!-- QUOTE:END -->/!d
+            }
+          }' README.md
+
+          sed -i '/<!-- QUOTE:START -->/a ${{ steps.quote.outputs.formatted_quote }}' README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily quote [skip ci]" && git push)
