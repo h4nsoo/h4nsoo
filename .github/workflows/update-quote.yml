@@ -14,42 +14,58 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch random quote
-        id: quote
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Fetch and update quote
         run: |
-          # Randomly choose between anime and dev quotes (50/50 chance)
-          RANDOM_NUM=$((RANDOM % 2))
+          python3 << 'EOF'
+          import requests
+          import random
+          import re
 
-          if [ $RANDOM_NUM -eq 0 ]; then
-            # Fetch anime quote from AnimeChan API
-            RESPONSE=$(curl -s https://animechan.xyz/api/random)
-            QUOTE=$(echo $RESPONSE | jq -r '.quote')
-            ANIME=$(echo $RESPONSE | jq -r '.anime')
-            CHARACTER=$(echo $RESPONSE | jq -r '.character')
-            FORMATTED_QUOTE="<i>\"${QUOTE}\" – ${CHARACTER}, ${ANIME}</i>"
-          else
-            # Fetch dev quote from quotable.io
-            RESPONSE=$(curl -s "https://api.quotable.io/quotes/random?tags=technology|famous-quotes&maxLength=150")
-            QUOTE=$(echo $RESPONSE | jq -r '.[0].content')
-            AUTHOR=$(echo $RESPONSE | jq -r '.[0].author')
-            FORMATTED_QUOTE="<i>\"${QUOTE}\" – ${AUTHOR}</i>"
-          fi
+          # Randomly choose between anime and dev quotes
+          if random.choice([0, 1]) == 0:
+              # Fetch anime quote
+              try:
+                  response = requests.get('https://animechan.xyz/api/random', timeout=10)
+                  data = response.json()
+                  quote = data['quote']
+                  character = data['character']
+                  anime = data['anime']
+                  formatted_quote = f'<i>"{quote}" – {character}, {anime}</i>'
+              except Exception as e:
+                  print(f"Error fetching anime quote: {e}")
+                  formatted_quote = '<i>"The world is not beautiful, therefore it is." – Kino, Kino\'s Journey</i>'
+          else:
+              # Fetch dev quote
+              try:
+                  response = requests.get('https://api.quotable.io/quotes/random?tags=technology|famous-quotes&maxLength=150', timeout=10)
+                  data = response.json()
+                  quote = data[0]['content']
+                  author = data[0]['author']
+                  formatted_quote = f'<i>"{quote}" – {author}</i>'
+              except Exception as e:
+                  print(f"Error fetching dev quote: {e}")
+                  formatted_quote = '<i>"Code is like humor. When you have to explain it, it\'s bad." – Cory House</i>'
 
-          # Escape special characters for sed
-          FORMATTED_QUOTE=$(echo "$FORMATTED_QUOTE" | sed 's/[&/\]/\\&/g')
+          # Read README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
 
-          echo "formatted_quote=$FORMATTED_QUOTE" >> $GITHUB_OUTPUT
+          # Replace quote between markers
+          pattern = r'(<!-- QUOTE:START -->).*?(<!-- QUOTE:END -->)'
+          replacement = f'\\1\n{formatted_quote}\n\\2'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
-      - name: Update README
-        run: |
-          # Update the quote section in README.md
-          sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/{
-            /<!-- QUOTE:START -->/!{
-              /<!-- QUOTE:END -->/!d
-            }
-          }' README.md
+          # Write back
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
 
-          sed -i '/<!-- QUOTE:START -->/a ${{ steps.quote.outputs.formatted_quote }}' README.md
+          print(f"Updated quote: {formatted_quote}")
+          EOF
 
       - name: Commit and push if changed
         run: |
