@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+<i>"The world is not beautiful, therefore it is." – Kino, Kino's Journey</i>
 <!-- QUOTE:END -->
 
 </div>
