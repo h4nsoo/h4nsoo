@@ -37,59 +37,59 @@ jobs:
           import re
           import json
 
-          # Randomly choose between anime and dev quotes
-          if random.choice([0, 1]) == 0:
-              # Fetch anime quote - using updated API
-              try:
-                  response = requests.get('https://animechan.io/api/v1/quotes/random', timeout=10)
-                  response.raise_for_status()
-                  if response.text.strip():
-                      data = response.json()
-                      # New API structure has 'data' wrapper
-                      quote_data = data.get('data', data)
-                      quote = quote_data.get('content', '')
-                      character = quote_data.get('character', {}).get('name', '') if isinstance(quote_data.get('character'), dict) else quote_data.get('character', '')
-                      anime = quote_data.get('anime', {}).get('name', '') if isinstance(quote_data.get('anime'), dict) else quote_data.get('anime', '')
-                      if quote and character and anime:
-                          formatted_quote = f'<i>"{quote}" – {character}, {anime}</i>'
-                      else:
-                          raise ValueError("Incomplete quote data")
-                  else:
-                      raise ValueError("Empty response")
-              except Exception as e:
-                  print(f"Error fetching anime quote: {e}")
-                  # Fallback to dev quote on anime API failure
-                  try:
-                      response = requests.get('https://api.quotable.io/random?tags=technology,famous-quotes&maxLength=150', timeout=10)
-                      response.raise_for_status()
-                      data = response.json()
-                      quote = data.get('content', '')
-                      author = data.get('author', '')
-                      if quote and author:
+          # List of hardcoded inspiring quotes as fallback
+          fallback_quotes = [
+              '<i>"The only way to do great work is to love what you do." – Steve Jobs</i>',
+              '<i>"Code is like humor. When you have to explain it, it\'s bad." – Cory House</i>',
+              '<i>"First, solve the problem. Then, write the code." – John Johnson</i>',
+              '<i>"Experience is the name everyone gives to their mistakes." – Oscar Wilde</i>',
+              '<i>"In order to be irreplaceable, one must always be different." – Coco Chanel</i>',
+              '<i>"The best way to predict the future is to invent it." – Alan Kay</i>',
+              '<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>',
+              '<i>"Simplicity is the soul of efficiency." – Austin Freeman</i>',
+              '<i>"Make it work, make it right, make it fast." – Kent Beck</i>',
+              '<i>"Talk is cheap. Show me the code." – Linus Torvalds</i>'
+          ]
+
+          formatted_quote = None
+
+          # Try ZenQuotes API (free, no auth required, reliable)
+          try:
+              response = requests.get('https://zenquotes.io/api/random', timeout=10, verify=True)
+              response.raise_for_status()
+              if response.text.strip():
+                  data = response.json()
+                  if data and len(data) > 0:
+                      quote = data[0].get('q', '')
+                      author = data[0].get('a', '')
+                      if quote and author and len(quote) <= 200:
                           formatted_quote = f'<i>"{quote}" – {author}</i>'
-                      else:
-                          raise ValueError("Incomplete quote data")
-                  except Exception as e2:
-                      print(f"Error fetching fallback quote: {e2}")
-                      formatted_quote = '<i>"The world is not beautiful, therefore it is." – Kino, Kino\'s Journey</i>'
-          else:
-              # Fetch dev quote - updated endpoint
+                          print(f"Successfully fetched quote from ZenQuotes")
+          except Exception as e:
+              print(f"ZenQuotes API failed: {e}")
+
+          # If ZenQuotes failed, try Quotable API with specific authors
+          if not formatted_quote:
               try:
-                  response = requests.get('https://api.quotable.io/random?tags=technology,famous-quotes&maxLength=150', timeout=10)
+                  authors = ['albert-einstein', 'steve-jobs', 'oscar-wilde', 'mark-twain', 'alan-kay']
+                  author_query = random.choice(authors)
+                  response = requests.get(f'https://api.quotable.io/quotes?author={author_query}', timeout=10, verify=False)
                   response.raise_for_status()
-                  if response.text.strip():
-                      data = response.json()
-                      quote = data.get('content', '')
-                      author = data.get('author', '')
-                      if quote and author:
+                  data = response.json()
+                  if data and 'results' in data and len(data['results']) > 0:
+                      quote_obj = random.choice(data['results'])
+                      quote = quote_obj.get('content', '')
+                      author = quote_obj.get('author', '')
+                      if quote and author and len(quote) <= 200:
                           formatted_quote = f'<i>"{quote}" – {author}</i>'
-                      else:
-                          raise ValueError("Incomplete quote data")
-                  else:
-                      raise ValueError("Empty response")
+                          print(f"Successfully fetched quote from Quotable")
               except Exception as e:
-                  print(f"Error fetching dev quote: {e}")
-                  formatted_quote = '<i>"Code is like humor. When you have to explain it, it\'s bad." – Cory House</i>'
+                  print(f"Quotable API failed: {e}")
+
+          # Use random fallback quote if all APIs failed
+          if not formatted_quote:
+              formatted_quote = random.choice(fallback_quotes)
+              print(f"Using fallback quote")
 
           # Read README
           with open('README.md', 'r', encoding='utf-8') as f:
