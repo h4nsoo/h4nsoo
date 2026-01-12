@@ -35,18 +35,21 @@ jobs:
           import requests
           import random
           import re
+          import json
 
           # Randomly choose between anime and dev quotes
           if random.choice([0, 1]) == 0:
-              # Fetch anime quote
+              # Fetch anime quote - using updated API
               try:
-                  response = requests.get('https://animechan.xyz/api/random', timeout=10)
+                  response = requests.get('https://animechan.io/api/v1/quotes/random', timeout=10)
                   response.raise_for_status()
                   if response.text.strip():
                       data = response.json()
-                      quote = data.get('quote', '')
-                      character = data.get('character', '')
-                      anime = data.get('anime', '')
+                      # New API structure has 'data' wrapper
+                      quote_data = data.get('data', data)
+                      quote = quote_data.get('content', '')
+                      character = quote_data.get('character', {}).get('name', '') if isinstance(quote_data.get('character'), dict) else quote_data.get('character', '')
+                      anime = quote_data.get('anime', {}).get('name', '') if isinstance(quote_data.get('anime'), dict) else quote_data.get('anime', '')
                       if quote and character and anime:
                           formatted_quote = f'<i>"{quote}" – {character}, {anime}</i>'
                       else:
@@ -55,16 +58,29 @@ jobs:
                       raise ValueError("Empty response")
               except Exception as e:
                   print(f"Error fetching anime quote: {e}")
-                  formatted_quote = '<i>"The world is not beautiful, therefore it is." – Kino, Kino\'s Journey</i>'
+                  # Fallback to dev quote on anime API failure
+                  try:
+                      response = requests.get('https://api.quotable.io/random?tags=technology,famous-quotes&maxLength=150', timeout=10)
+                      response.raise_for_status()
+                      data = response.json()
+                      quote = data.get('content', '')
+                      author = data.get('author', '')
+                      if quote and author:
+                          formatted_quote = f'<i>"{quote}" – {author}</i>'
+                      else:
+                          raise ValueError("Incomplete quote data")
+                  except Exception as e2:
+                      print(f"Error fetching fallback quote: {e2}")
+                      formatted_quote = '<i>"The world is not beautiful, therefore it is." – Kino, Kino\'s Journey</i>'
           else:
-              # Fetch dev quote
+              # Fetch dev quote - updated endpoint
               try:
-                  response = requests.get('https://api.quotable.io/quotes/random?tags=technology|famous-quotes&maxLength=150', timeout=10)
+                  response = requests.get('https://api.quotable.io/random?tags=technology,famous-quotes&maxLength=150', timeout=10)
                   response.raise_for_status()
                   if response.text.strip():
                       data = response.json()
-                      quote = data[0].get('content', '')
-                      author = data[0].get('author', '')
+                      quote = data.get('content', '')
+                      author = data.get('author', '')
                       if quote and author:
                           formatted_quote = f'<i>"{quote}" – {author}</i>'
                       else:
