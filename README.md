@@ -80,9 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-
-<i>"The world is not beautiful, therefore it is." – Kino, Kino's Journey</i>
-
+<i>"Unless you're ashamed of yourself now and then, you're not honest." – William Faulkner</i>
 <!-- QUOTE:END -->
 
 </div>
