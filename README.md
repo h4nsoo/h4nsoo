@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Unless you're ashamed of yourself now and then, you're not honest." – William Faulkner</i>
+<i>"I believe that one of life's greatest risks is never daring to risk." – Oprah Winfrey</i>
 <!-- QUOTE:END -->
 
 </div>
