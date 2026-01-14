@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I believe that one of life's greatest risks is never daring to risk." – Oprah Winfrey</i>
+<i>"Success on the outside means nothing unless you also have success within." – Robin Sharma</i>
 <!-- QUOTE:END -->
 
 </div>
