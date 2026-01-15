@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Success on the outside means nothing unless you also have success within." – Robin Sharma</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." – Joan Rivers</i>
 <!-- QUOTE:END -->
 
 </div>
