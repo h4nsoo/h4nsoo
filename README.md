@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The heart that gives, gathers." – Lao Tzu</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns." – Kenji Miyazawa</i>
 <!-- QUOTE:END -->
 
 </div>
