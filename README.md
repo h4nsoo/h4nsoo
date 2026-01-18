@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns." – Kenji Miyazawa</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." – Norman Vincent Peale</i>
 <!-- QUOTE:END -->
 
 </div>
