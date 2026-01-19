@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." – Norman Vincent Peale</i>
+<i>"Don't explain your philosophy. Embody it." – Epictetus</i>
 <!-- QUOTE:END -->
 
 </div>
