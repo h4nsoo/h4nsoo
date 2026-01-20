@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Don't explain your philosophy. Embody it." – Epictetus</i>
+<i>"Courage is fear that has said its prayers and decided to go forward anyway." – Joyce Meyer</i>
 <!-- QUOTE:END -->
 
 </div>
