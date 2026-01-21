@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Courage is fear that has said its prayers and decided to go forward anyway." – Joyce Meyer</i>
+<i>"In the middle of chaos lies opportunity.  " – Bruce Lee</i>
 <!-- QUOTE:END -->
 
 </div>
