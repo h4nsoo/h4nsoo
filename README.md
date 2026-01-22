@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"In the middle of chaos lies opportunity.  " – Bruce Lee</i>
+<i>"The best answer to anger is silence." – Marcus Aurelius</i>
 <!-- QUOTE:END -->
 
 </div>
