@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The best answer to anger is silence." – Marcus Aurelius</i>
+<i>"Mastering others is strength, mastering yourself is true power." – Lao Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
