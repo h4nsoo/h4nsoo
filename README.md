@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Mastering others is strength, mastering yourself is true power." – Lao Tzu</i>
+<i>"Decide what your truth is. Then live it." – Kamal Ravikant</i>
 <!-- QUOTE:END -->
 
 </div>
