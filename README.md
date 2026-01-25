@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Decide what your truth is. Then live it." – Kamal Ravikant</i>
+<i>"A self that goes on changing is a self that goes on living." – Virginia Woolf</i>
 <!-- QUOTE:END -->
 
 </div>
