@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A self that goes on changing is a self that goes on living." – Virginia Woolf</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day." – Jim Rohn</i>
 <!-- QUOTE:END -->
 
 </div>
