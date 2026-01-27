@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Success is nothing more than a few simple disciplines practiced every day." – Jim Rohn</i>
+<i>"Go for it now. The future is promised to no one." – Wayne Dyer</i>
 <!-- QUOTE:END -->
 
 </div>
