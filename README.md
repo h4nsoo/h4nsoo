@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Go for it now. The future is promised to no one." – Wayne Dyer</i>
+<i>"A wise person should have money in their head, but not in their heart." – Jonathan Swift</i>
 <!-- QUOTE:END -->
 
 </div>
