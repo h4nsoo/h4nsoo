@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A wise person should have money in their head, but not in their heart." – Jonathan Swift</i>
+<i>"Tension is who you think you should be. Relaxation is who you are." – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
