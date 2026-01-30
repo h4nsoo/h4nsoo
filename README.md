@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Tension is who you think you should be. Relaxation is who you are." – Chinese Proverb</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms." – Kamal Ravikant</i>
 <!-- QUOTE:END -->
 
 </div>
