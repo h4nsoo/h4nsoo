@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If there's a definition of freedom, I think it's this: living life on your terms." – Kamal Ravikant</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become." – Jim Rohn</i>
 <!-- QUOTE:END -->
 
 </div>
