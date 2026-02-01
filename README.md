@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become." – Jim Rohn</i>
+<i>"If I persist long enough I will win." – Og Mandino</i>
 <!-- QUOTE:END -->
 
 </div>
