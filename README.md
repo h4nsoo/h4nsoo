@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If I persist long enough I will win." – Og Mandino</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience." – Roy T. Bennett</i>
 <!-- QUOTE:END -->
 
 </div>
