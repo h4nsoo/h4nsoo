@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Be thankful for everything that happens in your life; it's all an experience." – Roy T. Bennett</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people." – Spencer Johnson</i>
 <!-- QUOTE:END -->
 
 </div>
