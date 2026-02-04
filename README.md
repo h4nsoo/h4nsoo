@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people." – Spencer Johnson</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes." – A.A. Milne</i>
 <!-- QUOTE:END -->
 
 </div>
