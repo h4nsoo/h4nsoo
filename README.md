@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Greatness lies not in being strong, but in the right use of strength." – Henry Ward Beecher</i>
+<i>"Correct what you can. Learn from what you can't." – Toni Morrison</i>
 <!-- QUOTE:END -->
 
 </div>
