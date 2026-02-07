@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Correct what you can. Learn from what you can't." – Toni Morrison</i>
+<i>"The future is no more uncertain than the present." – Walt Whitman</i>
 <!-- QUOTE:END -->
 
 </div>
