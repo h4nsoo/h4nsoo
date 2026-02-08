@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The future is no more uncertain than the present." – Walt Whitman</i>
+<i>"A fear of weakness only strengthens weakness." – Criss Jami</i>
 <!-- QUOTE:END -->
 
 </div>
