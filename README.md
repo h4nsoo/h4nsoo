@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A fear of weakness only strengthens weakness." – Criss Jami</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind." – Yanni</i>
 <!-- QUOTE:END -->
 
 </div>
