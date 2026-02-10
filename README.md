@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind." – Yanni</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth." – Celestine Chua</i>
 <!-- QUOTE:END -->
 
 </div>
