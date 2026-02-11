@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth." – Celestine Chua</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid." – Benjamin Franklin</i>
 <!-- QUOTE:END -->
 
 </div>
