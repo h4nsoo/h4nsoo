@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We are all born ignorant, but one must work hard to remain stupid." – Benjamin Franklin</i>
+<i>"There is a difference between giving directions and giving direction." – Simon Sinek</i>
 <!-- QUOTE:END -->
 
 </div>
