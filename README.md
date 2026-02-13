@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There is a difference between giving directions and giving direction." – Simon Sinek</i>
+<i>"Educating the mind without educating the heart is no education at all." – Aristotle</i>
 <!-- QUOTE:END -->
 
 </div>
