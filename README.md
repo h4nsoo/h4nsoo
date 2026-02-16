@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Wisdom is the oneness of mind that guides and permeates all things." – Heraclitus</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do." – Amelia Earhart</i>
 <!-- QUOTE:END -->
 
 </div>
