@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Never do things others can do and will do if there are things others cannot do or will not do." – Amelia Earhart</i>
+<i>"Learning is a weightless treasure you can always carry easily." – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
