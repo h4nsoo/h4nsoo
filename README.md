@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Learning is a weightless treasure you can always carry easily." – Chinese Proverb</i>
+<i>"Whatever your heart clings to and confides in, that is really your God." – Martin Luther</i>
 <!-- QUOTE:END -->
 
 </div>
