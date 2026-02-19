@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Whatever your heart clings to and confides in, that is really your God." – Martin Luther</i>
+<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better." – Benjamin Mays</i>
 <!-- QUOTE:END -->
 
 </div>
