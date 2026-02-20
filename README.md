@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better." – Benjamin Mays</i>
+<i>"Experience is a comb which nature gives us when we are bald. " – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
