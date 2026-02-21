@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Experience is a comb which nature gives us when we are bald. " – Chinese Proverb</i>
+<i>"Give more than you think you can, trusting that you are richer than you think." – Jon Kabat-Zinn</i>
 <!-- QUOTE:END -->
 
 </div>
