@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Love is the absence of judgment." – Dalai Lama</i>
+<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." – Mark Twain</i>
 <!-- QUOTE:END -->
 
 </div>
