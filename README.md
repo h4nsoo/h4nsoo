@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." – Mark Twain</i>
+<i>"If you see yourself as prosperous, you will be." – Robert Collier</i>
 <!-- QUOTE:END -->
 
 </div>
