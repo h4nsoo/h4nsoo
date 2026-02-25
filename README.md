@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you see yourself as prosperous, you will be." – Robert Collier</i>
+<i>"If a thing is worth doing, it is worth doing badly." – Gilbert Chesterton</i>
 <!-- QUOTE:END -->
 
 </div>
