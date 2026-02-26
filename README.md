@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If a thing is worth doing, it is worth doing badly." – Gilbert Chesterton</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all." – Miguel de Cervantes</i>
 <!-- QUOTE:END -->
 
 </div>
