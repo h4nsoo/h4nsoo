@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all." – Miguel de Cervantes</i>
+<i>"The impossible can always be broken down into possibilities." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
