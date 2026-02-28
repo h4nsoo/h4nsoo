@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The impossible can always be broken down into possibilities." – Unknown</i>
+<i>"Throw your heart over the bar and your body will follow." – Norman Vincent Peale</i>
 <!-- QUOTE:END -->
 
 </div>
