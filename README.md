@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Throw your heart over the bar and your body will follow." – Norman Vincent Peale</i>
+<i>"You are the only real obstacle in your path to a fulfilling life." – Les Brown</i>
 <!-- QUOTE:END -->
 
 </div>
