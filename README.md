@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You are the only real obstacle in your path to a fulfilling life." – Les Brown</i>
+<i>"Some of your greatest lessons come from your darkest moments." – Roger Lee</i>
 <!-- QUOTE:END -->
 
 </div>
