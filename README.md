@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Some of your greatest lessons come from your darkest moments." – Roger Lee</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions." – D. H. Lawrence</i>
 <!-- QUOTE:END -->
 
 </div>
