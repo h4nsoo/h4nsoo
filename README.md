@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"But better die than live mechanically a life that is a repetition of repetitions." – D. H. Lawrence</i>
+<i>"I live by letting things happen." – Dogen</i>
 <!-- QUOTE:END -->
 
 </div>
