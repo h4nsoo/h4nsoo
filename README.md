@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I live by letting things happen." – Dogen</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it." – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
