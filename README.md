@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The person who says something is impossible should not interrupt the person who is doing it." – Chinese Proverb</i>
+<i>"Let us rather run the risk of wearing out than rusting out." – Theodore Roosevelt</i>
 <!-- QUOTE:END -->
 
 </div>
