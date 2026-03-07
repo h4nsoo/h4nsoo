@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Let us rather run the risk of wearing out than rusting out." – Theodore Roosevelt</i>
+<i>"Inspire yourself to be great. Being good isn't good enough." – Gurbaksh Chahal</i>
 <!-- QUOTE:END -->
 
 </div>
