@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Inspire yourself to be great. Being good isn't good enough." – Gurbaksh Chahal</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it." – Dan Millman</i>
 <!-- QUOTE:END -->
 
 </div>
