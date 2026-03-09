@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it." – Dan Millman</i>
+<i>"We are all here for some special reason." – Robin Sharma</i>
 <!-- QUOTE:END -->
 
 </div>
