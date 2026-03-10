@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We are all here for some special reason." – Robin Sharma</i>
+<i>"First learn the meaning of what you say, and then speak." – Epictetus</i>
 <!-- QUOTE:END -->
 
 </div>
