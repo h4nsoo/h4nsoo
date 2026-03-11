@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"First learn the meaning of what you say, and then speak." – Epictetus</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent." – Bob Dylan</i>
 <!-- QUOTE:END -->
 
 </div>
