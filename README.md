@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"People seldom do what they believe in. They do what is convenient, then repent." – Bob Dylan</i>
+<i>"You change the world by being yourself." – Yoko Ono</i>
 <!-- QUOTE:END -->
 
 </div>
