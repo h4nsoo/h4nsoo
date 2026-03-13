@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You change the world by being yourself." – Yoko Ono</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you." – Roy T. Bennett</i>
 <!-- QUOTE:END -->
 
 </div>
