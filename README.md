@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you." – Roy T. Bennett</i>
+<i>"When you want something in life, you just gotta reach out and grab it." – Christopher McCandless</i>
 <!-- QUOTE:END -->
 
 </div>
