@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When you want something in life, you just gotta reach out and grab it." – Christopher McCandless</i>
+<i>"Yesterday is gone. Tomorrow has not yet come. We have only today." – Mother Teresa</i>
 <!-- QUOTE:END -->
 
 </div>
