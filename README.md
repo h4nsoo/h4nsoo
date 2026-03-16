@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today." – Mother Teresa</i>
+<i>"Enjoy when you can, and endure when you must." – Johann Wolfgang von Goethe</i>
 <!-- QUOTE:END -->
 
 </div>
