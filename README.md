@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Enjoy when you can, and endure when you must." – Johann Wolfgang von Goethe</i>
+<i>"If you can see it in your mind, you can hold it in your mind." – Steve Harvey</i>
 <!-- QUOTE:END -->
 
 </div>
