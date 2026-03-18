@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you can see it in your mind, you can hold it in your mind." – Steve Harvey</i>
+<i>"When you can't make them see the light, make them feel the heat." – Ronald Reagan</i>
 <!-- QUOTE:END -->
 
 </div>
