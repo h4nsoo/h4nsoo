@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When you can't make them see the light, make them feel the heat." – Ronald Reagan</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." – Vincent van Gogh</i>
 <!-- QUOTE:END -->
 
 </div>
