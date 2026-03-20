@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." – Vincent van Gogh</i>
+<i>"When things go wrong, don't go with them." – Elvis Presley</i>
 <!-- QUOTE:END -->
 
 </div>
