@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When things go wrong, don't go with them." – Elvis Presley</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know." – Eric Hoffer</i>
 <!-- QUOTE:END -->
 
 </div>
