@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Far more crucial than what we know or do not know is what we do not want to know." – Eric Hoffer</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." – Dalai Lama</i>
 <!-- QUOTE:END -->
 
 </div>
