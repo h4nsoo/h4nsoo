@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." – Dalai Lama</i>
+<i>"You may delay, but time will not." – Benjamin Franklin</i>
 <!-- QUOTE:END -->
 
 </div>
