@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You may delay, but time will not." – Benjamin Franklin</i>
+<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." – Earl Nightingale</i>
 <!-- QUOTE:END -->
 
 </div>
