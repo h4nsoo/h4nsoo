@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." – Earl Nightingale</i>
+<i>"Conquer the devils with a little thing called love." – Bob Marley</i>
 <!-- QUOTE:END -->
 
 </div>
