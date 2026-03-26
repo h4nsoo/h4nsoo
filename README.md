@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Conquer the devils with a little thing called love." – Bob Marley</i>
+<i>"The least deviation from truth will be multiplied later." – Aristotle</i>
 <!-- QUOTE:END -->
 
 </div>
