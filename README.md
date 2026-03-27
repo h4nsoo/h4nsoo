@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The least deviation from truth will be multiplied later." – Aristotle</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure." – Colin Powell</i>
 <!-- QUOTE:END -->
 
 </div>
