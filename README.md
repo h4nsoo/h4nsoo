@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure." – Colin Powell</i>
+<i>"Courage is the price that life exacts for granting peace." – Amelia Earhart</i>
 <!-- QUOTE:END -->
 
 </div>
