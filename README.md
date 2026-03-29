@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Courage is the price that life exacts for granting peace." – Amelia Earhart</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." – Roy T. Bennett</i>
 <!-- QUOTE:END -->
 
 </div>
