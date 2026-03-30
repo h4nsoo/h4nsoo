@@ -80,7 +80,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." – Roy T. Bennett</i>
+<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." – Mark Twain</i>
 <!-- QUOTE:END -->
 
 </div>
