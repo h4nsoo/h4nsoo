@@ -9,17 +9,18 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" style="vertical-align: middle;" /> About Me
+### About Me
 
-- I'm passionate about building scalable web applications
-- Full-stack developer specializing in modern web technologies
+- Building scalable web applications
+- AI & Machine Learning enthusiast
+- DevOps and Cloud 
 - Always learning and exploring new technologies
-- Focus on writing clean, maintainable, and efficient code
-- Let's connect and collaborate on exciting projects!
+- Focus on delivering production-level software
+
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" style="vertical-align: middle;" /> Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -47,7 +48,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" style="vertical-align: middle;" /> Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/h4nsoo/" target="_blank">
@@ -66,7 +67,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" style="vertical-align: middle;" /> GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h4nsoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
