@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." – Mark Twain</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it." – Marcus Aurelius</i>
 <!-- QUOTE:END -->
 
 </div>
