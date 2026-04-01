@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If it is not right, do not do it, if it is not true, do not say it." – Marcus Aurelius</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future." – Robin Sharma</i>
 <!-- QUOTE:END -->
 
 </div>
