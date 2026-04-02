@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Stop being a prisoner of your past. Become the architect of your future." – Robin Sharma</i>
+<i>"You will not do incredible things without an incredible dream." – John Eliot</i>
 <!-- QUOTE:END -->
 
 </div>
