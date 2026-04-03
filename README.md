@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You will not do incredible things without an incredible dream." – John Eliot</i>
+<i>"The person who never made a mistake never tried anything new." – Albert Einstein</i>
 <!-- QUOTE:END -->
 
 </div>
