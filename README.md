@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The person who never made a mistake never tried anything new." – Albert Einstein</i>
+<i>"We make a living by what we get, but we make a life by what we give." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
