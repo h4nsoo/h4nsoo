@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We make a living by what we get, but we make a life by what we give." – Unknown</i>
+<i>"Failure is the key to success; each mistake teaches us something." – Morihei Ueshiba</i>
 <!-- QUOTE:END -->
 
 </div>
