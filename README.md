@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Failure is the key to success; each mistake teaches us something." – Morihei Ueshiba</i>
+<i>"Ask no questions, and you'll be told no lies." – Charles Dickens</i>
 <!-- QUOTE:END -->
 
 </div>
