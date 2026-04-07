@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Ask no questions, and you'll be told no lies." – Charles Dickens</i>
+<i>"Experience is simply the name we give our mistakes." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
