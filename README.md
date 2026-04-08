@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Experience is simply the name we give our mistakes." – Oscar Wilde</i>
+<i>"In spite of everything, I shall rise again." – Vincent van Gogh</i>
 <!-- QUOTE:END -->
 
 </div>
