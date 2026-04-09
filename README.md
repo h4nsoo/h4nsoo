@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"In spite of everything, I shall rise again." – Vincent van Gogh</i>
+<i>"All great truths begin as blasphemies." – George Bernard Shaw</i>
 <!-- QUOTE:END -->
 
 </div>
