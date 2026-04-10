@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"All great truths begin as blasphemies." – George Bernard Shaw</i>
+<i>"Every man desires to live long, but no man wishes to be old." – Jonathan Swift</i>
 <!-- QUOTE:END -->
 
 </div>
