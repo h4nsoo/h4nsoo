@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Every man desires to live long, but no man wishes to be old." – Jonathan Swift</i>
+<i>"It's your life-but only if you make it so." – Eleanor Roosevelt</i>
 <!-- QUOTE:END -->
 
 </div>
