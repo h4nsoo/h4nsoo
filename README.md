@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It's your life-but only if you make it so." – Eleanor Roosevelt</i>
+<i>"Success is the sum of small efforts, repeated day in and day out." – Robert Collier</i>
 <!-- QUOTE:END -->
 
 </div>
