@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A man's worth is no greater than his ambitions." – Marcus Aurelius</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." – Rumi</i>
 <!-- QUOTE:END -->
 
 </div>
