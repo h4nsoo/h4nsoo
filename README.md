@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." – Rumi</i>
+<i>"Fear is what stops you. Courage is what keeps you going." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
