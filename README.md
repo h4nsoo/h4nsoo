@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Fear is what stops you. Courage is what keeps you going." – Unknown</i>
+<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society." – Jiddu Krishnamurti</i>
 <!-- QUOTE:END -->
 
 </div>
