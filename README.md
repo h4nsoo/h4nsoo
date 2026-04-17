@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society." – Jiddu Krishnamurti</i>
+<i>"Hope is a waking dream." – Aristotle</i>
 <!-- QUOTE:END -->
 
 </div>
