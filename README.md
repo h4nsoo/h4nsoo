@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Hope is a waking dream." – Aristotle</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " – Lao Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
