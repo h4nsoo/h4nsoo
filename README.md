@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. " – Lao Tzu</i>
+<i>"20 percent of your activities will account for 80 percent of your results." – Brian Tracy</i>
 <!-- QUOTE:END -->
 
 </div>
