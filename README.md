@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"20 percent of your activities will account for 80 percent of your results." – Brian Tracy</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today." – Will Rogers</i>
 <!-- QUOTE:END -->
 
 </div>
