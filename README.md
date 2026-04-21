@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Don't Let Yesterday Take Up Too Much Of Today." – Will Rogers</i>
+<i>"When it is dark enough, you can see the stars." – Ralph Waldo Emerson</i>
 <!-- QUOTE:END -->
 
 </div>
