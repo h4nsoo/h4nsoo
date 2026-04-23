@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." – Gary Keller</i>
+<i>"Winners are not people who never fail, but people who never quit." – Arnold Schwarzenegger</i>
 <!-- QUOTE:END -->
 
 </div>
