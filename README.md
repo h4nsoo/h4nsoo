@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Winners are not people who never fail, but people who never quit." – Arnold Schwarzenegger</i>
+<i>"In order to attain the impossible, one must attempt the absurd." – Miguel de Cervantes</i>
 <!-- QUOTE:END -->
 
 </div>
