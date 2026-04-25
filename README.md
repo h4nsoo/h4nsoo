@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"In order to attain the impossible, one must attempt the absurd." – Miguel de Cervantes</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people." – Theodore Roosevelt</i>
 <!-- QUOTE:END -->
 
 </div>
