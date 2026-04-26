@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people." – Theodore Roosevelt</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed." – Vaclav Havel</i>
 <!-- QUOTE:END -->
 
 </div>
