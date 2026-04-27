@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Work for something because it is good, not just because it stands a chance to succeed." – Vaclav Havel</i>
+<i>"What have you done today to make someone else happy?" – Deepam Chaterjee</i>
 <!-- QUOTE:END -->
 
 </div>
