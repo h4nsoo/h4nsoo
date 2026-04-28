@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"What have you done today to make someone else happy?" – Deepam Chaterjee</i>
+<i>"Every day is an opportunity to a make a new happy ending." – Jonathan Swift</i>
 <!-- QUOTE:END -->
 
 </div>
