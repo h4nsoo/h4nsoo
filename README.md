@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Every day is an opportunity to a make a new happy ending." – Jonathan Swift</i>
+<i>"Never close your lips to those whom you have already opened your heart." – Charles Dickens</i>
 <!-- QUOTE:END -->
 
 </div>
