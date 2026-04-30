@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Never close your lips to those whom you have already opened your heart." – Charles Dickens</i>
+<i>"Nothing is hopeless; we must hope for everything." – Euripides</i>
 <!-- QUOTE:END -->
 
 </div>
