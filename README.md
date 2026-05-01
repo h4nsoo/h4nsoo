@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Nothing is hopeless; we must hope for everything." – Euripides</i>
+<i>"If you've never eaten while crying you don t know what life tastes like." – Johann Wolfgang von Goethe</i>
 <!-- QUOTE:END -->
 
 </div>
