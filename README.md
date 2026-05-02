@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you've never eaten while crying you don t know what life tastes like." – Johann Wolfgang von Goethe</i>
+<i>"Wisdom is doing now what you are going to be happy with later on." – Joyce Meyer</i>
 <!-- QUOTE:END -->
 
 </div>
