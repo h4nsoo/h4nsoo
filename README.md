@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Wisdom is doing now what you are going to be happy with later on." – Joyce Meyer</i>
+<i>"A Penny Saved is a Penny Earned" – Benjamin Franklin</i>
 <!-- QUOTE:END -->
 
 </div>
