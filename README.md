@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A Penny Saved is a Penny Earned" – Benjamin Franklin</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day." – Jeffrey Gitomer</i>
 <!-- QUOTE:END -->
 
 </div>
