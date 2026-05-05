@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You don't earn loyalty in a day. You earn loyalty day-by-day." – Jeffrey Gitomer</i>
+<i>"The road to success is always under construction.." – Lily Tomlin</i>
 <!-- QUOTE:END -->
 
 </div>
