@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The road to success is always under construction.." – Lily Tomlin</i>
+<i>"Happiness depends upon ourselves." – Aristotle</i>
 <!-- QUOTE:END -->
 
 </div>
