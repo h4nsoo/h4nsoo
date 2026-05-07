@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Happiness depends upon ourselves." – Aristotle</i>
+<i>"Success is within the reach of just about everyone." – Lolly Daskal</i>
 <!-- QUOTE:END -->
 
 </div>
