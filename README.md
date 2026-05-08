@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Success is within the reach of just about everyone." – Lolly Daskal</i>
+<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." – Dale Carnegie</i>
 <!-- QUOTE:END -->
 
 </div>
