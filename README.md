@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." – Dale Carnegie</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." – Christopher Reeve</i>
 <!-- QUOTE:END -->
 
 </div>
