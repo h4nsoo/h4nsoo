@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." – Christopher Reeve</i>
+<i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." – James Allen</i>
 <!-- QUOTE:END -->
 
 </div>
