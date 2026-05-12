@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." – Criss Jami</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
