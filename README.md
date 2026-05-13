@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
+<i>"If I cannot do great things. I can do small things in a great way." – Martin Luther King, Jr.</i>
 <!-- QUOTE:END -->
 
 </div>
