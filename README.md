@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If I cannot do great things. I can do small things in a great way." – Martin Luther King, Jr.</i>
+<i>"Animals don't hate, and we're supposed to be better than them." – Elvis Presley</i>
 <!-- QUOTE:END -->
 
 </div>
