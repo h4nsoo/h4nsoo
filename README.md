@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Animals don't hate, and we're supposed to be better than them." – Elvis Presley</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are." – Dogen</i>
 <!-- QUOTE:END -->
 
 </div>
