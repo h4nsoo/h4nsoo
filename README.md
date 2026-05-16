@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you want to see things just as they are, then you yourself must practice just as you are." – Dogen</i>
+<i>"Not all those who wander are lost." – J.R.R. Tolkien</i>
 <!-- QUOTE:END -->
 
 </div>
