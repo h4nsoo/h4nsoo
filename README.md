@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Not all those who wander are lost." – J.R.R. Tolkien</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. " – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
