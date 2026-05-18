@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To be totally at leisure for one day is to be immortal for one day. " – Chinese Proverb</i>
+<i>"We are all self-made, but only the successful will admit it." – Earl Nightingale</i>
 <!-- QUOTE:END -->
 
 </div>
