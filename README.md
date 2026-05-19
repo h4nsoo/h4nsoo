@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We are all self-made, but only the successful will admit it." – Earl Nightingale</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same." – Audrey Hepburn</i>
 <!-- QUOTE:END -->
 
 </div>
