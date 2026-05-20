@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Success is like reaching an important birthday and finding you're exactly the same." – Audrey Hepburn</i>
+<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." – Paramahansa Yogananda</i>
 <!-- QUOTE:END -->
 
 </div>
