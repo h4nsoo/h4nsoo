@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." – Paramahansa Yogananda</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people." – Roy T. Bennett</i>
 <!-- QUOTE:END -->
 
 </div>
