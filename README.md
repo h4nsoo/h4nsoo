@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Life becomes easier and more beautiful when we can see the good in other people." – Roy T. Bennett</i>
+<i>"Time is a game played beautifully by children." – Heraclitus</i>
 <!-- QUOTE:END -->
 
 </div>
