@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Time is a game played beautifully by children." – Heraclitus</i>
+<i>"The time is now, the place is here. Stay in the present." – Dan Millman</i>
 <!-- QUOTE:END -->
 
 </div>
