@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The time is now, the place is here. Stay in the present." – Dan Millman</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again." – Stephen King</i>
 <!-- QUOTE:END -->
 
 </div>
