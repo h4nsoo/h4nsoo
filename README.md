@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again." – Stephen King</i>
+<i>"Make it work, make it right, make it fast." – Kent Beck</i>
 <!-- QUOTE:END -->
 
 </div>
