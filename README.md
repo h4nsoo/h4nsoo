@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Make it work, make it right, make it fast." – Kent Beck</i>
+<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." – Earl Nightingale</i>
 <!-- QUOTE:END -->
 
 </div>
