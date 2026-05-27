@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." – Earl Nightingale</i>
+<i>"Conquer the devils with a little thing called love." – Bob Marley</i>
 <!-- QUOTE:END -->
 
 </div>
