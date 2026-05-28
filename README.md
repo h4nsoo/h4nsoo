@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Conquer the devils with a little thing called love." – Bob Marley</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past." – F. Scott Fitzgerald</i>
 <!-- QUOTE:END -->
 
 </div>
