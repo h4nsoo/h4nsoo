@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past." – F. Scott Fitzgerald</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride." – Alexandre Dumas</i>
 <!-- QUOTE:END -->
 
 </div>
