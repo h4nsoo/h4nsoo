@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride." – Alexandre Dumas</i>
+<i>"If you want to make God laugh, tell him about your plans." – Woody Allen</i>
 <!-- QUOTE:END -->
 
 </div>
