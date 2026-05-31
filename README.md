@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you want to make God laugh, tell him about your plans." – Woody Allen</i>
+<i>"We forge the chains we wear in life." – Charles Dickens</i>
 <!-- QUOTE:END -->
 
 </div>
