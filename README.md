@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We forge the chains we wear in life." – Charles Dickens</i>
+<i>"Every man is guilty of all the good he did not do." – Voltaire</i>
 <!-- QUOTE:END -->
 
 </div>
