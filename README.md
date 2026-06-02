@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Every man is guilty of all the good he did not do." – Voltaire</i>
+<i>"Our thoughts are highly influenced by the people around us and everything we read, see, and do." – Jeff Booth</i>
 <!-- QUOTE:END -->
 
 </div>
