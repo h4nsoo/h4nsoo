@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Our thoughts are highly influenced by the people around us and everything we read, see, and do." – Jeff Booth</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try." – Beverly Sills</i>
 <!-- QUOTE:END -->
 
 </div>
