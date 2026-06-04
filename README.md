@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You may be disappointed if you fail, but you are doomed if you don't try." – Beverly Sills</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots." – Rumi</i>
 <!-- QUOTE:END -->
 
 </div>
