@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Maybe you are searching among the branches, for what only appears in the roots." – Rumi</i>
+<i>"The smallest act of kindness is worth more than the grandest intention." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
