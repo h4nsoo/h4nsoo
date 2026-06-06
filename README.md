@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The smallest act of kindness is worth more than the grandest intention." – Oscar Wilde</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?" – Eckhart Tolle</i>
 <!-- QUOTE:END -->
 
 </div>
