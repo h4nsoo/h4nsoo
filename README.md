@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?" – Eckhart Tolle</i>
+<i>"Be a good animal, true to your instincts." – D. H. Lawrence</i>
 <!-- QUOTE:END -->
 
 </div>
