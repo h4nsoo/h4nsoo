@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Be a good animal, true to your instincts." – D. H. Lawrence</i>
+<i>"The only way to 'find out if it will work out' is to do it." – Simon Sinek</i>
 <!-- QUOTE:END -->
 
 </div>
