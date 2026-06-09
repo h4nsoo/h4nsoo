@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The only way to 'find out if it will work out' is to do it." – Simon Sinek</i>
+<i>"Self-control is strength." – James Allen</i>
 <!-- QUOTE:END -->
 
 </div>
