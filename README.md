@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Self-control is strength." – James Allen</i>
+<i>"Where we fall are the stepping-stones for our journey." – Lolly Daskal</i>
 <!-- QUOTE:END -->
 
 </div>
