@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Where we fall are the stepping-stones for our journey." – Lolly Daskal</i>
+<i>"It is in changing that we find purpose." – Heraclitus</i>
 <!-- QUOTE:END -->
 
 </div>
