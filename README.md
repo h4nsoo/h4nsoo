@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It is in changing that we find purpose." – Heraclitus</i>
+<i>"Showing off is the fool's idea of glory." – Bruce Lee</i>
 <!-- QUOTE:END -->
 
 </div>
