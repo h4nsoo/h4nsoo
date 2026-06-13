@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Showing off is the fool's idea of glory." – Bruce Lee</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches." – Ming-Dao Deng</i>
 <!-- QUOTE:END -->
 
 </div>
