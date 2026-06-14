@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches." – Ming-Dao Deng</i>
+<i>"Nothing important is learned; it is simply remembered." – Carlos Ruiz Zafon</i>
 <!-- QUOTE:END -->
 
 </div>
