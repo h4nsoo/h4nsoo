@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Nothing important is learned; it is simply remembered." – Carlos Ruiz Zafon</i>
+<i>"We must create our own world or we will die from inaction." – Robert Greene</i>
 <!-- QUOTE:END -->
 
 </div>
