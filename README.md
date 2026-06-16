@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We must create our own world or we will die from inaction." – Robert Greene</i>
+<i>"There are no shortcuts to any place worth going." – Beverly Sills</i>
 <!-- QUOTE:END -->
 
 </div>
