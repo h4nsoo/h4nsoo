@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are no shortcuts to any place worth going." – Beverly Sills</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes." – Mark Twain</i>
 <!-- QUOTE:END -->
 
 </div>
