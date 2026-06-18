@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A thing long expected takes the form of the unexpected when at last it comes." – Mark Twain</i>
+<i>"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them." – Steve Jobs</i>
 <!-- QUOTE:END -->
 
 </div>
