@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them." – Steve Jobs</i>
+<i>"If you can handle rejection, you'll learn to get everything you want." – Tony Robbins</i>
 <!-- QUOTE:END -->
 
 </div>
