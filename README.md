@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you can handle rejection, you'll learn to get everything you want." – Tony Robbins</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." – Norman Vincent Peale</i>
 <!-- QUOTE:END -->
 
 </div>
