@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." – Norman Vincent Peale</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
