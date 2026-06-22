@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you try, you might get exactly what you want. If you don't, you don't." – Unknown</i>
+<i>"We love the things we love for what they are." – Robert Frost</i>
 <!-- QUOTE:END -->
 
 </div>
