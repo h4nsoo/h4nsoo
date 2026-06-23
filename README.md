@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We love the things we love for what they are." – Robert Frost</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." – James Allen</i>
 <!-- QUOTE:END -->
 
 </div>
