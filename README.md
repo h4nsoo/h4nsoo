@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound." – James Allen</i>
+<i>"Make each day a new horizon." – Christopher McCandless</i>
 <!-- QUOTE:END -->
 
 </div>
