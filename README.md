@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Make each day a new horizon." – Christopher McCandless</i>
+<i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 <!-- QUOTE:END -->
 
 </div>
