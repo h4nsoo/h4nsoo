@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+<i>"When you change what you believe, you change what you do." – Spencer Johnson</i>
 <!-- QUOTE:END -->
 
 </div>
