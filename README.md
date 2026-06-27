@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When you change what you believe, you change what you do." – Spencer Johnson</i>
+<i>"If you are out to describe the truth, leave elegance to the tailor." – Albert Einstein</i>
 <!-- QUOTE:END -->
 
 </div>
