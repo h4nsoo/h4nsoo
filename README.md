@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you are out to describe the truth, leave elegance to the tailor." – Albert Einstein</i>
+<i>"Every day may not be good, but there's something good in every day." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
