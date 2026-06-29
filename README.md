@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Every day may not be good, but there's something good in every day." – Unknown</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain." – Emily Dickinson</i>
 <!-- QUOTE:END -->
 
 </div>
