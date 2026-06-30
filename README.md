@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If I can stop one heart from breaking, I shall not live in vain." – Emily Dickinson</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions." – Ming-Dao Deng</i>
 <!-- QUOTE:END -->
 
 </div>
