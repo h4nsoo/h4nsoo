@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions." – Ming-Dao Deng</i>
+<i>"Experience is the name everyone gives to their mistakes." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
