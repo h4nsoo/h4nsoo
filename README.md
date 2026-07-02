@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Experience is the name everyone gives to their mistakes." – Oscar Wilde</i>
+<i>"Courage is the price that life exacts for granting peace." – Amelia Earhart</i>
 <!-- QUOTE:END -->
 
 </div>
