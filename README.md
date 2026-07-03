@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Courage is the price that life exacts for granting peace." – Amelia Earhart</i>
+<i>"Every moment is a fresh beginning." – T.S. Eliot</i>
 <!-- QUOTE:END -->
 
 </div>
