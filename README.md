@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Every moment is a fresh beginning." – T.S. Eliot</i>
+<i>"You must be willing to do what others won't do, to have what others won't have." – Les Brown</i>
 <!-- QUOTE:END -->
 
 </div>
