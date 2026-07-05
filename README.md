@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You must be willing to do what others won't do, to have what others won't have." – Les Brown</i>
+<i>"A leader leads by example, not by force." – Sun Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
