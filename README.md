@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A leader leads by example, not by force." – Sun Tzu</i>
+<i>"So long as we are being remembered, we remain alive." – Carlos Ruiz Zafon</i>
 <!-- QUOTE:END -->
 
 </div>
