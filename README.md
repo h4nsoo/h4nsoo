@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"So long as we are being remembered, we remain alive." – Carlos Ruiz Zafon</i>
+<i>"Human behavior flows from three main sources: desire, emotion, and knowledge." – Plato</i>
 <!-- QUOTE:END -->
 
 </div>
