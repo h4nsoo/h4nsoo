@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge." – Plato</i>
+<i>"To be able to forget means sanity." – Jack London</i>
 <!-- QUOTE:END -->
 
 </div>
