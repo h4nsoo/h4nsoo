@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To be able to forget means sanity." – Jack London</i>
+<i>"I never said it would be easy, I only said it would be worth it." – Mae West</i>
 <!-- QUOTE:END -->
 
 </div>
