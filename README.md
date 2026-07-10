@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I never said it would be easy, I only said it would be worth it." – Mae West</i>
+<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." – Ming-Dao Deng</i>
 <!-- QUOTE:END -->
 
 </div>
