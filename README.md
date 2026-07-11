@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." – Ming-Dao Deng</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." – Naval Ravikant</i>
 <!-- QUOTE:END -->
 
 </div>
