@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." – Naval Ravikant</i>
+<i>"The most effective way to do it, is to do it." – Amelia Earhart</i>
 <!-- QUOTE:END -->
 
 </div>
