@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The most effective way to do it, is to do it." – Amelia Earhart</i>
+<i>"20 percent of your activities will account for 80 percent of your results." – Brian Tracy</i>
 <!-- QUOTE:END -->
 
 </div>
