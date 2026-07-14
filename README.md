@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"20 percent of your activities will account for 80 percent of your results." – Brian Tracy</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful." – Sigmund Freud</i>
 <!-- QUOTE:END -->
 
 </div>
