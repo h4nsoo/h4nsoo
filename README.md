@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful." – Sigmund Freud</i>
+<i>"To get the full value of joy you must have someone to divide it with." – Mark Twain</i>
 <!-- QUOTE:END -->
 
 </div>
