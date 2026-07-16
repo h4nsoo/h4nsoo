@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To get the full value of joy you must have someone to divide it with." – Mark Twain</i>
+<i>"Nothing is easier than fault finding." – Og Mandino</i>
 <!-- QUOTE:END -->
 
 </div>
