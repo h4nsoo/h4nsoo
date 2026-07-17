@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Nothing is easier than fault finding." – Og Mandino</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." – Sonia Ricotti</i>
 <!-- QUOTE:END -->
 
 </div>
