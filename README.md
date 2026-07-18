@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." – Sonia Ricotti</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts." – Tony Robbins</i>
 <!-- QUOTE:END -->
 
 </div>
