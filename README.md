@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts." – Tony Robbins</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes." – Mark Manson</i>
 <!-- QUOTE:END -->
 
 </div>
