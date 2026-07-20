@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"This is the most simple and basic component of life: our struggles determine our successes." – Mark Manson</i>
+<i>"There are no coincidences in the universe." – Neale Donald Walsch</i>
 <!-- QUOTE:END -->
 
 </div>
