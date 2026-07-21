@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are no coincidences in the universe." – Neale Donald Walsch</i>
+<i>"The wise warrior avoids the battle." – Sun Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
