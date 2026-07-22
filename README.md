@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The wise warrior avoids the battle." – Sun Tzu</i>
+<i>"If you've never eaten while crying you don t know what life tastes like." – Johann Wolfgang von Goethe</i>
 <!-- QUOTE:END -->
 
 </div>
