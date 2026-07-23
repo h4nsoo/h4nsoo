@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you've never eaten while crying you don t know what life tastes like." – Johann Wolfgang von Goethe</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen." – W.P. Kinsella</i>
 <!-- QUOTE:END -->
 
 </div>
