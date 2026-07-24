@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen." – W.P. Kinsella</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
