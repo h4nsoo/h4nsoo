@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things." – Unknown</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived." – Eleanor Roosevelt</i>
 <!-- QUOTE:END -->
 
 </div>
