@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Fool me once, shame on you; fool me twice, shame on me." – Chinese Proverb</i>
+<i>"Only by acceptance of the past, can you alter it." – T.S. Eliot</i>
 <!-- QUOTE:END -->
 
 </div>
