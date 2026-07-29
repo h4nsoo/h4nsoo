@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Only by acceptance of the past, can you alter it." – T.S. Eliot</i>
+<i>"There are no limitations to the mind except those we acknowledge..." – Napoleon Hill</i>
 <!-- QUOTE:END -->
 
 </div>
