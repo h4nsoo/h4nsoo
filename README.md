@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are no limitations to the mind except those we acknowledge..." – Napoleon Hill</i>
+<i>"The dream is free, but the hustle is sold separately." – Steve Harvey</i>
 <!-- QUOTE:END -->
 
 </div>
