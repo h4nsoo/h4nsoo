@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The dream is free, but the hustle is sold separately." – Steve Harvey</i>
+<i>"He who violates another's honor loses his own." – Publilius Syrus</i>
 <!-- QUOTE:END -->
 
 </div>
