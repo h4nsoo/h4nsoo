@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"He who violates another's honor loses his own." – Publilius Syrus</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." – G.I. Gurdjieff</i>
 <!-- QUOTE:END -->
 
 </div>
