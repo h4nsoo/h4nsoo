@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Be regular and orderly in your life, so that you may be violent and original in your work." – Gustave Flaubert</i>
+<i>"Adventure is not outside man; it is within." – George Eliot</i>
 <!-- QUOTE:END -->
 
 </div>
