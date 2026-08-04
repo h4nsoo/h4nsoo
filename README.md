@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Adventure is not outside man; it is within." – George Eliot</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air." – Ralph Waldo Emerson</i>
 <!-- QUOTE:END -->
 
 </div>
