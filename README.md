@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Live in the sunshine, swim the sea, drink the wild air." – Ralph Waldo Emerson</i>
+<i>"Fears are nothing more than a state of mind." – Napoleon Hill</i>
 <!-- QUOTE:END -->
 
 </div>
