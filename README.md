@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Fears are nothing more than a state of mind." – Napoleon Hill</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." – Paramahansa Yogananda</i>
 <!-- QUOTE:END -->
 
 </div>
