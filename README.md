@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." – Paramahansa Yogananda</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile." – Og Mandino</i>
 <!-- QUOTE:END -->
 
 </div>
