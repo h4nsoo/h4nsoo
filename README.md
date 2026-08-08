@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile." – Og Mandino</i>
+<i>"It is in changing that we find purpose." – Heraclitus</i>
 <!-- QUOTE:END -->
 
 </div>
