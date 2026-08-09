@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It is in changing that we find purpose." – Heraclitus</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." – Steve Jobs</i>
 <!-- QUOTE:END -->
 
 </div>
