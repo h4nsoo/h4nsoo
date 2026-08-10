@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." – Steve Jobs</i>
+<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it." – Richard Bach</i>
 <!-- QUOTE:END -->
 
 </div>
