@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it." – Richard Bach</i>
+<i>"If I persist long enough I will win." – Og Mandino</i>
 <!-- QUOTE:END -->
 
 </div>
