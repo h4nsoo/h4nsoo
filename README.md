@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded." – Mark Twain</i>
+<i>"There will always be suffering. But we must not suffer over the suffering." – Alan Watts</i>
 <!-- QUOTE:END -->
 
 </div>
