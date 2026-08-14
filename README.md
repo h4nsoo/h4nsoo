@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There will always be suffering. But we must not suffer over the suffering." – Alan Watts</i>
+<i>"You are never too old to set another goal or to dream a new dream." – Les Brown</i>
 <!-- QUOTE:END -->
 
 </div>
