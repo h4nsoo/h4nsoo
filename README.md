@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You are never too old to set another goal or to dream a new dream." – Les Brown</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed." – Vaclav Havel</i>
 <!-- QUOTE:END -->
 
 </div>
