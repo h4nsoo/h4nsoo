@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Work for something because it is good, not just because it stands a chance to succeed." – Vaclav Havel</i>
+<i>"Chop your own wood and it will warm you twice." – Henry Ford</i>
 <!-- QUOTE:END -->
 
 </div>
