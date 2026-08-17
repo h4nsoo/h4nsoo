@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Chop your own wood and it will warm you twice." – Henry Ford</i>
+<i>"I am not what happened to me, I am what I choose to become." – Carl Jung</i>
 <!-- QUOTE:END -->
 
 </div>
