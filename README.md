@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I am not what happened to me, I am what I choose to become." – Carl Jung</i>
+<i>"Eighty percent of success is showing up." – Woody Allen</i>
 <!-- QUOTE:END -->
 
 </div>
