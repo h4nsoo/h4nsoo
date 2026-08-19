@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Eighty percent of success is showing up." – Woody Allen</i>
+<i>"The temptation to give up is strongest just before victory." – Zen Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
