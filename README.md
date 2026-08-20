@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The temptation to give up is strongest just before victory." – Zen Proverb</i>
+<i>"Truth is exact correspondence with reality." – Paramahansa Yogananda</i>
 <!-- QUOTE:END -->
 
 </div>
