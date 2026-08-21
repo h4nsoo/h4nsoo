@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Truth is exact correspondence with reality." – Paramahansa Yogananda</i>
+<i>"Not how long, but how well you have lived is the main thing." – Seneca</i>
 <!-- QUOTE:END -->
 
 </div>
