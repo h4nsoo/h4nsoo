@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Not how long, but how well you have lived is the main thing." – Seneca</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future." – Steve Harvey</i>
 <!-- QUOTE:END -->
 
 </div>
