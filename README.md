@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future." – Steve Harvey</i>
+<i>"We cannot change anything unless we accept it." – Carl Jung</i>
 <!-- QUOTE:END -->
 
 </div>
