@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We cannot change anything unless we accept it." – Carl Jung</i>
+<i>"All men are equal before fish." – Herbert Hoover</i>
 <!-- QUOTE:END -->
 
 </div>
