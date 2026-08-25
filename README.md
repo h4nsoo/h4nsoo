@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"All men are equal before fish." – Herbert Hoover</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop." – Confucius</i>
 <!-- QUOTE:END -->
 
 </div>
