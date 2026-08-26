@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It doesn't matter how slow you go, as long as you don't stop." – Confucius</i>
+<i>"Victims recite problems, leaders provide solutions." – Robin Sharma</i>
 <!-- QUOTE:END -->
 
 </div>
