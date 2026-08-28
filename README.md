@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two." – Warren Buffett</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions." – Albert Einstein</i>
 <!-- QUOTE:END -->
 
 </div>
