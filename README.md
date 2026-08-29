@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions." – Albert Einstein</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life." – Eckhart Tolle</i>
 <!-- QUOTE:END -->
 
 </div>
