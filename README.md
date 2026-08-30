@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life." – Eckhart Tolle</i>
+<i>"Rudeness is the weak man's imitation of strength." – Eric Hoffer</i>
 <!-- QUOTE:END -->
 
 </div>
