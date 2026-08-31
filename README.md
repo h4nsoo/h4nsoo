@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Rudeness is the weak man's imitation of strength." – Eric Hoffer</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
