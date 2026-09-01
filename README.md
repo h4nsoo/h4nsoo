@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
+<i>"Discipline is the mark of intelligent living." – Sathya Sai Baba</i>
 <!-- QUOTE:END -->
 
 </div>
