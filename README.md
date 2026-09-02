@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Discipline is the mark of intelligent living." – Sathya Sai Baba</i>
+<i>"Nature loves to hide." – Heraclitus</i>
 <!-- QUOTE:END -->
 
 </div>
