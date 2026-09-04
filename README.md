@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Like it or not, this moment is all we really have to work with." – Jon Kabat-Zinn</i>
+<i>"You can't get to a place that you don't believe exists." – Unknown</i>
 <!-- QUOTE:END -->
 
 </div>
