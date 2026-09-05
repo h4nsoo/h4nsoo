@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You can't get to a place that you don't believe exists." – Unknown</i>
+<i>"Be where your enemy is not." – Sun Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
