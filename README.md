@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Be where your enemy is not." – Sun Tzu</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." – Denis Waitley</i>
 <!-- QUOTE:END -->
 
 </div>
