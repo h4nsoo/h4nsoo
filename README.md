@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." – Denis Waitley</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy." – Brian Tracy</i>
 <!-- QUOTE:END -->
 
 </div>
