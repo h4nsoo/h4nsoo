@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy." – Brian Tracy</i>
+<i>"Longevity is a fleeting moment that lasts forever." – Vidal Sassoon</i>
 <!-- QUOTE:END -->
 
 </div>
