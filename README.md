@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Longevity is a fleeting moment that lasts forever." – Vidal Sassoon</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself." – Dogen</i>
 <!-- QUOTE:END -->
 
 </div>
