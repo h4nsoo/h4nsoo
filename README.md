@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A fool sees himself as another, but a wise man sees others as himself." – Dogen</i>
+<i>"We have more possibilities available in each moment than we realize." – Thich Nhat Hanh</i>
 <!-- QUOTE:END -->
 
 </div>
