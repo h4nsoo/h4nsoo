@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We have more possibilities available in each moment than we realize." – Thich Nhat Hanh</i>
+<i>"To know even one life has breathed easier because you have lived. This is to have succeeded." – Ralph Waldo Emerson</i>
 <!-- QUOTE:END -->
 
 </div>
