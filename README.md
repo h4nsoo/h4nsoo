@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded." – Ralph Waldo Emerson</i>
+<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality." – Vaclav Havel</i>
 <!-- QUOTE:END -->
 
 </div>
