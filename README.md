@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality." – Vaclav Havel</i>
+<i>"The secret to happiness is having low expectations." – Warren Buffett</i>
 <!-- QUOTE:END -->
 
 </div>
