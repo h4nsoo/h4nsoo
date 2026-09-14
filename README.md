@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The secret to happiness is having low expectations." – Warren Buffett</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." – Morihei Ueshiba</i>
 <!-- QUOTE:END -->
 
 </div>
