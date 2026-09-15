@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace." – Morihei Ueshiba</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." – Zen Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
