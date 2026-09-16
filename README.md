@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." – Zen Proverb</i>
+<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view." – Alfred Adler</i>
 <!-- QUOTE:END -->
 
 </div>
