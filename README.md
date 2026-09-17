@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view." – Alfred Adler</i>
+<i>"It is not titles that honour men, but men that honour titles." – Niccolo Machiavelli</i>
 <!-- QUOTE:END -->
 
 </div>
