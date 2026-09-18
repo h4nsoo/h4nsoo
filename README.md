@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It is not titles that honour men, but men that honour titles." – Niccolo Machiavelli</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems." – Earl Nightingale</i>
 <!-- QUOTE:END -->
 
 </div>
