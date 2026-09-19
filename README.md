@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems." – Earl Nightingale</i>
+<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." – Carl Jung</i>
 <!-- QUOTE:END -->
 
 </div>
