@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." – Carl Jung</i>
+<i>"I have no methods; all I do is accept people as they are." – Joan Rivers</i>
 <!-- QUOTE:END -->
 
 </div>
