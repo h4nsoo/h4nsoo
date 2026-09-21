@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I have no methods; all I do is accept people as they are." – Joan Rivers</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live." – Lao Tzu</i>
 <!-- QUOTE:END -->
 
 </div>
