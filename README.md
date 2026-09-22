@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A man with outward courage dares to die: a man with inner courage dares to live." – Lao Tzu</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." – Stephen Hawking</i>
 <!-- QUOTE:END -->
 
 </div>
