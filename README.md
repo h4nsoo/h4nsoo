@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." – Stephen Hawking</i>
+<i>"The question isn't who is going to let me; it's who is going to stop me." – Ayn Rand</i>
 <!-- QUOTE:END -->
 
 </div>
