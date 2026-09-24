@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The question isn't who is going to let me; it's who is going to stop me." – Ayn Rand</i>
+<i>"Truth is such a rare thing, it is delighted to tell it." – Emily Dickinson</i>
 <!-- QUOTE:END -->
 
 </div>
