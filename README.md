@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Truth is such a rare thing, it is delighted to tell it." – Emily Dickinson</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life." – Charles Darwin</i>
 <!-- QUOTE:END -->
 
 </div>
