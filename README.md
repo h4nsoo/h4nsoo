@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A man who dares to waste one hour of time has not discovered the value of life." – Charles Darwin</i>
+<i>"Death is not an ending. It is a transformation." – Ming-Dao Deng</i>
 <!-- QUOTE:END -->
 
 </div>
