@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Death is not an ending. It is a transformation." – Ming-Dao Deng</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." – Benjamin Franklin</i>
 <!-- QUOTE:END -->
 
 </div>
