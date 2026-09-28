@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." – Benjamin Franklin</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." – Ralph Waldo Emerson</i>
 <!-- QUOTE:END -->
 
 </div>
