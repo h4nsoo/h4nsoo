@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." – Ralph Waldo Emerson</i>
+<i>"Correct what you can. Learn from what you can't." – Toni Morrison</i>
 <!-- QUOTE:END -->
 
 </div>
