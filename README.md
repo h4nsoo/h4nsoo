@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Correct what you can. Learn from what you can't." – Toni Morrison</i>
+<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you." – Thomas Jefferson</i>
 <!-- QUOTE:END -->
 
 </div>
