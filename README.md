@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you." – Thomas Jefferson</i>
+<i>"Your next step is simple. You are the first domino." – Gary Keller</i>
 <!-- QUOTE:END -->
 
 </div>
