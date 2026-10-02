@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Your next step is simple. You are the first domino." – Gary Keller</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal." – Henry Ford</i>
 <!-- QUOTE:END -->
 
 </div>
