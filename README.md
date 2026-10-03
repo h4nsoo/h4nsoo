@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal." – Henry Ford</i>
+<i>"Wake up and smile! Wake up and be grateful!" – Steve Harvey</i>
 <!-- QUOTE:END -->
 
 </div>
