@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Wake up and smile! Wake up and be grateful!" – Steve Harvey</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully." – Maxime Lagace</i>
 <!-- QUOTE:END -->
 
 </div>
