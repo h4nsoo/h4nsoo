@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The ego wants comfort and certainty. The soul wants to live fully." – Maxime Lagace</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience." – Jiddu Krishnamurti</i>
 <!-- QUOTE:END -->
 
 </div>
