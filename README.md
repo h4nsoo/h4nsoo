@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience." – Jiddu Krishnamurti</i>
+<i>"True friends stab you in the front." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
