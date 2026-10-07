@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"True friends stab you in the front." – Oscar Wilde</i>
+<i>"A day wasted on others is not wasted on one's self." – Charles Dickens</i>
 <!-- QUOTE:END -->
 
 </div>
