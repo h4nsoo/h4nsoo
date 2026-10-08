@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A day wasted on others is not wasted on one's self." – Charles Dickens</i>
+<i>"The friend is the man who knows all about you, and still likes you." – Elbert Hubbard</i>
 <!-- QUOTE:END -->
 
 </div>
