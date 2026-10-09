@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The friend is the man who knows all about you, and still likes you." – Elbert Hubbard</i>
+<i>"Let the beauty of what you love be what you do." – Rumi</i>
 <!-- QUOTE:END -->
 
 </div>
