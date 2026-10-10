@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Let the beauty of what you love be what you do." – Rumi</i>
+<i>"When it is dark enough, you can see the stars." – Ralph Waldo Emerson</i>
 <!-- QUOTE:END -->
 
 </div>
