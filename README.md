@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When it is dark enough, you can see the stars." – Ralph Waldo Emerson</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it." – Samuel Butler</i>
 <!-- QUOTE:END -->
 
 </div>
