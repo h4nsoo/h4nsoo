@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it." – Samuel Butler</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see." – Leonardo da Vinci</i>
 <!-- QUOTE:END -->
 
 </div>
