@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see." – Leonardo da Vinci</i>
+<i>"I know of only one duty, and that is to love." – George Bernard Shaw</i>
 <!-- QUOTE:END -->
 
 </div>
