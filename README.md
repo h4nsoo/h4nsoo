@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I know of only one duty, and that is to love." – George Bernard Shaw</i>
+<i>"It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do." – Ryan Holiday</i>
 <!-- QUOTE:END -->
 
 </div>
