@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do." – Ryan Holiday</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you." – Sathya Sai Baba</i>
 <!-- QUOTE:END -->
 
 </div>
