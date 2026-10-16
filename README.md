@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you." – Sathya Sai Baba</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." – Elvis Presley</i>
 <!-- QUOTE:END -->
 
 </div>
