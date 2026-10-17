@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." – Elvis Presley</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty." – Kilian Jornet</i>
 <!-- QUOTE:END -->
 
 </div>
