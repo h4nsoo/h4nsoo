@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty." – Kilian Jornet</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love." – Maxime Lagace</i>
 <!-- QUOTE:END -->
 
 </div>
