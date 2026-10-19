@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The truly rich men are the ones who have health, loved ones and a work they love." – Maxime Lagace</i>
+<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." – James Allen</i>
 <!-- QUOTE:END -->
 
 </div>
