@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." – James Allen</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart." – Eleanor Roosevelt</i>
 <!-- QUOTE:END -->
 
 </div>
