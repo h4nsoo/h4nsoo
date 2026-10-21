@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart." – Eleanor Roosevelt</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night." – Margaret Mead</i>
 <!-- QUOTE:END -->
 
 </div>
