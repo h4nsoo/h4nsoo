@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night." – Margaret Mead</i>
+<i>"Don't give up the fight, Stand up for your rights." – Bob Marley</i>
 <!-- QUOTE:END -->
 
 </div>
