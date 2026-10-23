@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Don't give up the fight, Stand up for your rights." – Bob Marley</i>
+<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman</i>
 <!-- QUOTE:END -->
 
 </div>
