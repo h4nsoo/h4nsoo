@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes." – Mark Manson</i>
 <!-- QUOTE:END -->
 
 </div>
