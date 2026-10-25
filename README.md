@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"This is the most simple and basic component of life: our struggles determine our successes." – Mark Manson</i>
+<i>"I've always tried to go a step past wherever people expected me to end up." – Beverly Sills</i>
 <!-- QUOTE:END -->
 
 </div>
