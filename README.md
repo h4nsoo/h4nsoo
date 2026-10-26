@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I've always tried to go a step past wherever people expected me to end up." – Beverly Sills</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." – Carl Bard</i>
 <!-- QUOTE:END -->
 
 </div>
