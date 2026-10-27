@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." – Carl Bard</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong." – Voltaire</i>
 <!-- QUOTE:END -->
 
 </div>
