@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It is dangerous to be right in matters on which the established authorities are wrong." – Voltaire</i>
+<i>"Surround yourself with only people who are going to lift you higher." – Oprah Winfrey</i>
 <!-- QUOTE:END -->
 
 </div>
