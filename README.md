@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Surround yourself with only people who are going to lift you higher." – Oprah Winfrey</i>
+<i>"Life is a journey, not a destination." – Dan Millman</i>
 <!-- QUOTE:END -->
 
 </div>
