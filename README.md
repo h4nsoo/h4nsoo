@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Life is a journey, not a destination." – Dan Millman</i>
+<i>"Love is the absence of judgment." – Dalai Lama</i>
 <!-- QUOTE:END -->
 
 </div>
