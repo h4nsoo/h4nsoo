@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Love is the absence of judgment." – Dalai Lama</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred." – Thomas Jefferson</i>
 <!-- QUOTE:END -->
 
 </div>
