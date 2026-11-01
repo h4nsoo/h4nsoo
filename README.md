@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"When angry count to ten before you speak. If very angry, count to one hundred." – Thomas Jefferson</i>
+<i>"Happiness is only real, when shared." – Christopher McCandless</i>
 <!-- QUOTE:END -->
 
 </div>
