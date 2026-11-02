@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Happiness is only real, when shared." – Christopher McCandless</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves." – Thomas Edison</i>
 <!-- QUOTE:END -->
 
 </div>
