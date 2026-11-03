@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves." – Thomas Edison</i>
+<i>"Even in the grave, all is not lost." – Edgar Allan Poe</i>
 <!-- QUOTE:END -->
 
 </div>
