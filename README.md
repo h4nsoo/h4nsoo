@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Even in the grave, all is not lost." – Edgar Allan Poe</i>
+<i>"I have never let my schooling interfere with my education." – Mark Twain</i>
 <!-- QUOTE:END -->
 
 </div>
