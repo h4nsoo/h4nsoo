@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I have never let my schooling interfere with my education." – Mark Twain</i>
+<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." – Ralph Marston</i>
 <!-- QUOTE:END -->
 
 </div>
