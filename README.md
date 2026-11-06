@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." – Ralph Marston</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
 <!-- QUOTE:END -->
 
 </div>
