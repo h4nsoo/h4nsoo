@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." – Oscar Wilde</i>
+<i>"If you love life, don't waste time, for time is what life is made up of." – Bruce Lee</i>
 <!-- QUOTE:END -->
 
 </div>
