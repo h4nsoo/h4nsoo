@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you love life, don't waste time, for time is what life is made up of." – Bruce Lee</i>
+<i>"The worst part of success is trying to find someone who is happy for you." – Bette Midler</i>
 <!-- QUOTE:END -->
 
 </div>
