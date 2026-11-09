@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The worst part of success is trying to find someone who is happy for you." – Bette Midler</i>
+<i>"Remember we're all in this alone." – Lily Tomlin</i>
 <!-- QUOTE:END -->
 
 </div>
