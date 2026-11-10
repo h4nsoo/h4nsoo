@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Remember we're all in this alone." – Lily Tomlin</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries." – A.A. Milne</i>
 <!-- QUOTE:END -->
 
 </div>
