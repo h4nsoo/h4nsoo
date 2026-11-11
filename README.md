@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries." – A.A. Milne</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence." – Aristotle</i>
 <!-- QUOTE:END -->
 
 </div>
