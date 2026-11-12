@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence." – Aristotle</i>
+<i>"A little impatience will spoil great plans." – Chinese Proverb</i>
 <!-- QUOTE:END -->
 
 </div>
