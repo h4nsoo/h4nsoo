@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"A little impatience will spoil great plans." – Chinese Proverb</i>
+<i>"The greatest of empires, is the empire over one's self." – Publilius Syrus</i>
 <!-- QUOTE:END -->
 
 </div>
