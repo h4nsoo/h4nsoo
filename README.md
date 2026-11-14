@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"The greatest of empires, is the empire over one's self." – Publilius Syrus</i>
+<i>"Throw your heart over the bar and your body will follow." – Norman Vincent Peale</i>
 <!-- QUOTE:END -->
 
 </div>
