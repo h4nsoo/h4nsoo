@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Throw your heart over the bar and your body will follow." – Norman Vincent Peale</i>
+<i>"Take into account that great love and great achievements involve great risk." – Dalai Lama</i>
 <!-- QUOTE:END -->
 
 </div>
