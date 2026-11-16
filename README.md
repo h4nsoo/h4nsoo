@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Take into account that great love and great achievements involve great risk." – Dalai Lama</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." – Steve Jobs</i>
 <!-- QUOTE:END -->
 
 </div>
