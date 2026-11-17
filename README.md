@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." – Steve Jobs</i>
+<i>"I cannot make my days longer so I strive to make them better." – Henry David Thoreau</i>
 <!-- QUOTE:END -->
 
 </div>
