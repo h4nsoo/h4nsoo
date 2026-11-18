@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"I cannot make my days longer so I strive to make them better." – Henry David Thoreau</i>
+<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." – Robert Kiyosaki</i>
 <!-- QUOTE:END -->
 
 </div>
