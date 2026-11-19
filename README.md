@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." – Robert Kiyosaki</i>
+<i>"To forgive means pardoning the unpardonable." – Gilbert Chesterton</i>
 <!-- QUOTE:END -->
 
 </div>
