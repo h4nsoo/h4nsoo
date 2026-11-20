@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"To forgive means pardoning the unpardonable." – Gilbert Chesterton</i>
+<i>"Knowledge isn't power until it is applied." – Dale Carnegie</i>
 <!-- QUOTE:END -->
 
 </div>
