@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Knowledge isn't power until it is applied." – Dale Carnegie</i>
+<i>"Your purpose will be clear only when you listen to your heart." – Lolly Daskal</i>
 <!-- QUOTE:END -->
 
 </div>
