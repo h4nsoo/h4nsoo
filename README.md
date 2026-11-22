@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Your purpose will be clear only when you listen to your heart." – Lolly Daskal</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots." – Rumi</i>
 <!-- QUOTE:END -->
 
 </div>
