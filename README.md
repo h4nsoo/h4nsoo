@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Maybe you are searching among the branches, for what only appears in the roots." – Rumi</i>
+<i>"You are what you do, not what you say you'll do." – Carl Jung</i>
 <!-- QUOTE:END -->
 
 </div>
