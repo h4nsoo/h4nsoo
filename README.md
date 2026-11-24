@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"You are what you do, not what you say you'll do." – Carl Jung</i>
+<i>"Art is to console those who are broken by life." – Vincent van Gogh</i>
 <!-- QUOTE:END -->
 
 </div>
