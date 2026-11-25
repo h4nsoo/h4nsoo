@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"Art is to console those who are broken by life." – Vincent van Gogh</i>
+<i>"What we dwell on is who we become." – Oprah Winfrey</i>
 <!-- QUOTE:END -->
 
 </div>
