@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"What we dwell on is who we become." – Oprah Winfrey</i>
+<i>"If you are out to describe the truth, leave elegance to the tailor." – Albert Einstein</i>
 <!-- QUOTE:END -->
 
 </div>
