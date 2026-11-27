@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"If you are out to describe the truth, leave elegance to the tailor." – Albert Einstein</i>
+<i>"It doesn't matter how much you want. What really matters is how much you want it." – Ralph Marston</i>
 <!-- QUOTE:END -->
 
 </div>
