@@ -81,7 +81,7 @@
 ### Quote of the Day
 
 <!-- QUOTE:START -->
-<i>"It doesn't matter how much you want. What really matters is how much you want it." – Ralph Marston</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." – Alexander Graham Bell</i>
 <!-- QUOTE:END -->
 
 </div>
